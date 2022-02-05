@@ -1,2 +1,3 @@
 # springboot-testapp
-Spring Boot Web with MySQL connector
+
+Spring Boot Web Test App with MySQL connector
